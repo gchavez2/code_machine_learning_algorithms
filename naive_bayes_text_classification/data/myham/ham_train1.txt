@@ -1,0 +1,12 @@
+Dear Professor Foo,
+
+I am a student in your machine learning class.
+
+I have a question about the second term project and I was not able to find the
+answer on the syllabus. Should our project be only about the topics listed on
+the second part of the syllabus, or can I incorporate topics from the whole
+course, as long as it fits with the subject of the class?
+
+I look forward to hearing from you.
+Best regards,
+Bar
